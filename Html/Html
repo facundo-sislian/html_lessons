@@ -1,0 +1,68 @@
+<!-- For excersise on lesson: theodinproject.com/lessons/foundations-lists-->
+<!-- AUTO BOILERPLATE: "!" -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head> 
+    <meta charset = "UTF-8">
+    <title> Some Lists </title>
+</head>
+
+<body>
+    <h1>Four Lists:</h1>
+
+    <h3>Shopping List</h3>
+    <ul>
+        <li>Banana</li>
+        <li>Avocado</li>
+        <li>Organge Juice</li>
+        <li>Ham</li>
+        <li>Burgers</li>
+        <li>Chesse
+            <ul>
+                <li>Feta</li>
+                <li>Blue Chesse</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>To Do 8/12</h3>
+    <ol>
+        <li>A few more lessons</li>
+        <li>Get some sleep</li>
+        <li>Order some food</li>
+        <li>Tea with Jo</li>
+        <li>Play with Sofi/Luca/?</li>
+    </ol>
+
+    <p>And maybe...</p>
+
+    <ol start="6">
+        <li>Eat junk food :)</li>
+    </ol>
+
+    <h3>Visit</h3>
+    <ul>
+        <li>Japan</li>
+        <li>Arctic Pole</li>
+        <li>NY</li>
+    </ul>
+
+
+    <h3>Top 5 Movies</h3>
+    <ul>
+        <li>The Wind that Shakes the Barley</li>
+        <li>Mandarinij</li>
+        <li>Good Fellas</li>
+        <li>Matrix</li>
+        <li>El Secreto de sus Ojos</li>
+    </ul>
+<!-- An order list can be reversed with the reverse switch/option on the tag like <ol reversed> -->
+<!-- You can change the value of a li in an ordered list:<li value="9">Turn right on W Diversey 
+    Pkwy</li> -->
+<!-- THere's a third type of list: descriptive lists-->
+</body>
+
+
+
+</html>
